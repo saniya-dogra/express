@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+#Saniya Dogra 
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
